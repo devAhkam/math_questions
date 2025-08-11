@@ -1,0 +1,27 @@
+@title Drawing Marbles from a Bag
+@description Calculating probability of drawing certain colored marbles.
+
+@question A bag contains 5 red marbles, 7 blue marbles, and 8 green marbles. If one marble is chosen at random, what is the probability that it is either red or green? Give your answer as a simplified fraction.
+
+(A) $\frac{5}{20}$
+(B) $\frac{13}{20}$
+(C) $\frac{7}{20}$
+(D) $\frac{8}{20}$
+(E) $\frac{12}{20}$
+
+@instruction Choose the correct probability.
+@difficulty easy
+@Order 1
+
+@option $\frac{5}{20}$
+@@option $\frac{13}{20}$
+@option $\frac{7}{20}$
+@option $\frac{8}{20}$
+@option $\frac{12}{20}$
+
+@explanation There are $5 + 7 + 8 = 20$ marbles in total. The number of favorable outcomes for red or green is $5 + 8 = 13$. Thus, the probability is $\frac{13}{20}$.
+@subject Quantitative Math
+@unit Data Analysis & Probability
+@topic Probability (Basic, Compound Events)
+
+@plusmarks 1

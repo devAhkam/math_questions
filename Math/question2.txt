@@ -1,0 +1,27 @@
+@title Area of a Composite Garden
+@description Finding the area of a shape made from a rectangle and a semicircle.
+
+@question A garden is shaped like a rectangle of length 12 m and width 8 m, with a semicircle of diameter 8 m attached to one of its shorter sides (as shown in the diagram below). What is the total area of the garden? (Use $\pi \approx 3.14$)
+
+(A) $96 + 25.12$ m²
+(B) $96 + 50.24$ m²
+(C) $90 + 25.12$ m²
+(D) $100 + 50.24$ m²
+(E) $96 + 100.48$ m²
+
+@instruction Choose the correct total area.
+@difficulty moderate
+@Order 2
+
+@option $96 + 25.12$ m²
+@@option $96 + 25.12$ m²
+@option $90 + 25.12$ m²
+@option $100 + 50.24$ m²
+@option $96 + 100.48$ m²
+
+@explanation Area of rectangle = $12 \times 8 = 96$ m². Radius of semicircle = $\frac{8}{2} = 4$ m. Area of semicircle = $\frac{1}{2} \pi r^2 = 0.5 \times 3.14 \times 16 = 25.12$ m². Total = $96 + 25.12 = 121.12$ m².
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Area & Volume
+
+@plusmarks 1
